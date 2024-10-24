@@ -1,4 +1,4 @@
 <h2>To run React projects</h2>
 
-cd folder name
-npm install
+<li>cd folder name</li>
+<li>npm install</li>
