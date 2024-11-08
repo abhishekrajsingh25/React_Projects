@@ -14,7 +14,7 @@
    
 2. **Install Frontend Dependencies**
    ```bash
-   cd client
+   cd project_name
    npm install
    ```
 
@@ -22,7 +22,6 @@
 
 1. **Start the Frontend**
    ```bash
-   cd client
    npm run dev
    ```
    The frontend should now be running on `http://localhost:5173`.
