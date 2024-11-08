@@ -8,8 +8,8 @@
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/real-time-chat-app.git
-   cd real-time-chat-app
+   git clone https://github.com/abhishekrajsingh25/React_Projects.git
+   cd React_Projects
    ```
    
 2. **Install Frontend Dependencies**
